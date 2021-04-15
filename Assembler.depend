@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618517545 source:c:\users\admin\desktop\2nd year 2nd semester\projectcs\assembler\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdbool.h>
+
